@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there!
+I'm James, a full time high school student in Australia. Currently working on a photorealistic web based flight simulator. I love sports, (mostly vibe)coding, and contributing to OSS I use. I don't have a website yet...
+
+### My projects:
+- [FlightSim](https://github.com/jamesx0416/FlightSim): A lightweight, photorealistic, web-based flight simulator based on three geospatial (WIP)
+- [ChatLink](https://github.com/jamesx0416/ChatLink): Local bridge that injects YouTube live chat into Twitch chat/Stream Manager
+- [ServerDash](https://github.com/jamesx0416/ServerDash): TypeScript web dashboard for launching, monitoring, and managing local development servers easily.
+- [MessHelper](https://github.com/jamesx0416/MessHelper): Browser-based sales manager with inventory, checkout, and barcode scanning
 
 <!--
 **jamesx0416/jamesx0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
