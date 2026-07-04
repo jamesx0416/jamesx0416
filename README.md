@@ -6,8 +6,9 @@ I'm James, a full time high school student in Australia. Currently working on a 
 - [ChatLink](https://github.com/jamesx0416/ChatLink): Local bridge that injects YouTube live chat into Twitch chat/Stream Manager (I need Theo to see this!)
 - [ServerDash](https://github.com/jamesx0416/ServerDash): TypeScript web dashboard for launching, monitoring, and managing local development servers easily
 - [MessHelper](https://github.com/jamesx0416/MessHelper): Browser-based sales manager with inventory, checkout, and barcode scanning
-
-[![My GitFut card](https://gitfut.com/jamesx0416.png)](https://gitfut.com/jamesx0416)
+<a href="https://gitfut.com/jamesx0416">
+  <img src="https://gitfut.com/jamesx0416.png" alt="Description" width="200">
+</a>
 
 _Thanks for visit my profile._
 <!--
